@@ -21,8 +21,8 @@
 ## Github repo: https://github.com/holyaustin/decentralized-library
 <!--Attach a link to your GitHub repo if it's OSS-->
 
-## Website
-	@@ -27,21 +27,22 @@
+## Websitev: https://youtu.be/x4ZEJ-3i43k
+	
 ## Docs
 <!--Including a link to your project docs!-->
 
@@ -36,12 +36,17 @@
 ## How the community can engage
 GitHub Discussion: <!--Start a disucssion with the community here: https://github.com/filecoin-project/community/discussions/new and attach the link!-->  
 Email:  holyaustin@yahoo.com
+
 Slack:  
+
 Twitter:  https://twitter.com/holyaustin
+
 Discord:  holyaustin#3735
+
 Telegram:  https://t.me/holyaustin
+
 WeChat:  
 
 ## How to Contribute
 <!--How can the community contribute to your project?-->
-Connect my email or push to my github
+Connect my email or push to my github repo
